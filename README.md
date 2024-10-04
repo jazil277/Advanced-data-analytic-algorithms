@@ -32,9 +32,13 @@ How to run the code:
 5. Run the script below to load the dataset.
 
    import pandas as pd
+   
    import numpy as np
+   
    import matplotlib.pyplot as plt
+   
    from sklearn.datasets import load_breast_cancer
+   
 
    OR view the code/results via the google colab link  
 https://colab.research.google.com/drive/1jC9zWP-wBXuYrG6lD92ha3SaP6Tz1eoY?usp=sharing#scrollTo=CCkHP_k6ZHlF
